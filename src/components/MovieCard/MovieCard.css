@@ -1,0 +1,21 @@
+.moviecard {
+  width: 17rem;
+}
+
+@media (max-width: 768px) {
+  .moviecard {
+    width: 20rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .moviecard {
+    width: 100vw;
+  }
+}
+
+@media (max-width: 320px) {
+  .moviecard {
+    width: 100vw;
+  }
+}

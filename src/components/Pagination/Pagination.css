@@ -1,0 +1,17 @@
+.page-link {
+  cursor: pointer;
+  color: #9C27B0
+}
+
+.page-link a {
+  color: #9C27B0
+}
+
+.page-item.active .page-link {
+  background-color: #9C27B0;
+  border-color: #9C27B0
+}
+
+.page-item {
+  font-size: 0.9rem;
+}
