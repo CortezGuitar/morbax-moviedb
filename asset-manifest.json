@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CortezGuitar/morbax-moviedb/static/css/main.c301be79.chunk.css",
+    "main.js": "/CortezGuitar/morbax-moviedb/static/js/main.a2f02880.chunk.js",
+    "main.js.map": "/CortezGuitar/morbax-moviedb/static/js/main.a2f02880.chunk.js.map",
+    "runtime~main.js": "/CortezGuitar/morbax-moviedb/static/js/runtime~main.5711beed.js",
+    "runtime~main.js.map": "/CortezGuitar/morbax-moviedb/static/js/runtime~main.5711beed.js.map",
+    "static/css/2.06c3a842.chunk.css": "/CortezGuitar/morbax-moviedb/static/css/2.06c3a842.chunk.css",
+    "static/js/2.3dd58865.chunk.js": "/CortezGuitar/morbax-moviedb/static/js/2.3dd58865.chunk.js",
+    "static/js/2.3dd58865.chunk.js.map": "/CortezGuitar/morbax-moviedb/static/js/2.3dd58865.chunk.js.map",
+    "index.html": "/CortezGuitar/morbax-moviedb/index.html",
+    "precache-manifest.9655ad846ddab25ad34d79e474e1ce7b.js": "/CortezGuitar/morbax-moviedb/precache-manifest.9655ad846ddab25ad34d79e474e1ce7b.js",
+    "service-worker.js": "/CortezGuitar/morbax-moviedb/service-worker.js",
+    "static/css/2.06c3a842.chunk.css.map": "/CortezGuitar/morbax-moviedb/static/css/2.06c3a842.chunk.css.map",
+    "static/css/main.c301be79.chunk.css.map": "/CortezGuitar/morbax-moviedb/static/css/main.c301be79.chunk.css.map",
+    "static/media/react-widgets.css": "/CortezGuitar/morbax-moviedb/static/media/rw-widgets.eceddf47.ttf"
+  }
+}
